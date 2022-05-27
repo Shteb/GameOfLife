@@ -1,0 +1,7 @@
+[
+{
+  "directory": "H:/Documents/BAE Training/BAE C++ Practise/Game Of Life/build",
+  "command": "/H/msys2/mingw64/bin/g++.exe   -g -std=gnu++20 -o CMakeFiles/MovePractice.dir/src/main.cpp.obj -c \"/H/Documents/BAE Training/BAE C++ Practise/Game Of Life/src/main.cpp\"",
+  "file": "H:/Documents/BAE Training/BAE C++ Practise/Game Of Life/src/main.cpp"
+}
+]
